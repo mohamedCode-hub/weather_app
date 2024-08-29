@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Hamodi\source\repos\PROJ_C++\3rdpary\glfw-master\CMakeFiles\a5cc66997e28595cb63b1d373e8d5263\uninstall.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Hamodi\source\repos\PROJ_C++\3rdpary\glfw-master\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Hamodi\source\repos\PROJ_C++\3rdpary\glfw-master\CMakeFiles\uninstall" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4AB1D20B-7FAC-3C36-8978-BB50FCEFA353}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
